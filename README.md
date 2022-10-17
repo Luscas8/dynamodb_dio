@@ -1,4 +1,4 @@
-# dio-live-dynamodb
+# dio_dynamodb
 Repositório sobre o Amazon DynamoDB
 
 ### Serviço utilizado
